@@ -1,0 +1,11 @@
+.DS_Store
+*.swp
+*.swo
+.Session.vim
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+test.cpp
